@@ -1,0 +1,29 @@
+_repo: A-Friend-of-C-sar--13-Time-50-47-B.C._15694
+_version: 0.1.0
+alternative_title: Friend of Caesar
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, William Stearns
+    alias: Davis, W. S. (William Stearns)
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '1557'
+    url: http://www.gutenberg.org/2009/agents/1557
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Civil War, 49-45 B.C. -- Fiction'
+- !lcc 'PS'
+title: 'A Friend of Cæsar: A Tale of the Fall of the Roman Republic. Time, 50-47 B.C.'
+url: http://www.gutenberg.org/ebooks/15694
